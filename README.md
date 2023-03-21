@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @philipa18
 - 👀 I’m interested in Math and Computer Science.
-- 🌱 I’m currently learning XR, Cryptography, and Mobile Development.
+- 🌱 I’m currently working as a Software Engineer.
 - 💞️ I’m looking to collaborate on an open source game or Minecraft mod.
 - 📫 How to reach me: Say my name three times 🪲🪲🪲.
 
